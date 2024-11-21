@@ -1,4 +1,4 @@
-![Open Controller logo](https://github.com/Open-TLC/.github/blob/main/OC_official_logo_green.png)
+![Open Controller logo](OC_logo_green_horizontal.jpg)
 # Open Controller
 
 ## About
