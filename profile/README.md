@@ -11,7 +11,8 @@ You can start by installing and testing our open source traffic light controller
 
 ## Usefull links
 
-- [Open Controller project](https://www.opencontroller.org)
+- [Open Source Traffic Light Controller](https://github.com/Open-TLC/open_controller)
+- [Open Controller Project web page](https://www.opencontroller.org)
 
 
 
