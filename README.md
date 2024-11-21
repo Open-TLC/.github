@@ -1,2 +1,2 @@
-# .github
-Open Controller title page repository
+# Open Controller
+This is the repository of Open Controller consortium
